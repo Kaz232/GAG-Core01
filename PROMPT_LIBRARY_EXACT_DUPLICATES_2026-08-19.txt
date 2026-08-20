@@ -1,0 +1,21 @@
+4x	 | Desafios_-_Aula_3__Design_com_IA(1).md | Desafios_-_Aula_3__Design_com_IA(2).md | Desafios_-_Aula_3__Design_com_IA.md | desafios_aula3.md
+3x	 | manual_aluno_aula2.md | Manual_do_Aluno_-_Aula_2__Produção_de_Conteúdo_com(1).md | Manual_do_Aluno_-_Aula_2__Produção_de_Conteúdo_com.md
+3x	 | exercicios_aula3.md | Exercícios_-_Aula_3__Design_com_IA(1).md | Exercícios_-_Aula_3__Design_com_IA.md
+3x	 | PDF_02_—_ChatGPT_Profissional(1).md | PDF_02_—_ChatGPT_Profissional(2).md | PDF_02_—_ChatGPT_Profissional.md
+3x	 | Instrucoes_Projeto_GAG_Visual-1.md | Instrucoes_Projeto_GAG_Visual-2.md | Instrucoes_Projeto_GAG_Visual.md
+2x	 | sugestoes_interacao_online_aula2.md | Sugestões_para_Interação_Online_-_Aula_2__Produção.md
+2x	 | replit(1).md | replit.md
+2x	 | manual_aluno_aula3.md | Manual_do_Aluno_-_Aula_3__Design_com_IA.md
+2x	 | faq_aula2.md | Perguntas_Frequentes_(FAQ)_-_Aula_2__Produção_de_C.md
+2x	 | exercicios_aula1.md | Exercícios_-_Aula_1__Introdução_à_IA_e_Conversando.md
+2x	 | estrutura_geral_curso.md | Estrutura_Geral_do_Curso__IA_na_Prática_para_Traba.md
+2x	 | avaliacao_aula2.md | Avaliação_-_Aula_2__Produção_de_Conteúdo_com_IA.md
+2x	 | avaliacao_aula1.md | Avaliação-Aula1_IntroduçãoàIAeConversandocomModelosdeLinguagem.md
+2x	 | Recursos_Adicionais_-_Aula_2__Produção_de_Conteúdo.md | recursos_adicionais_aula2.md
+2x	 | Plano_Minuto_a_Minuto_-_Aula_2__Produção_de_Conteú.md | plano_minuto_a_minuto_aula2.md
+2x	 | Plano_Minuto_a_Minuto_-_Aula_1__Introdução_à_IA_e_.md | plano_minuto_a_minuto_aula1.md
+2x	 | Manual_do_Formador_-_Aula_3__Design_com_IA.md | manual_formador_aula3.md
+2x	 | Manual_do_Formador_-_Aula_2__Produção_de_Conteúdo_.md | manual_formador_aula2.md
+2x	 | Lista_de_Prompts_Úteis_-_Aula_2__Produção_de_Conte.md | lista_prompts_uteis_aula2.md
+2x	 | Desafios_-_Aula_2__Produção_de_Conteúdo_com_IA.md | desafios_aula2.md
+2x	 | Checklist_-_Aula_2__Produção_de_Conteúdo_com_IA.md | checklist_aula2.md
